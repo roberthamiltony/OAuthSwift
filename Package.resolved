@@ -39,11 +39,11 @@
       },
       {
         "package": "Swifter",
-        "repositoryURL": "https://github.com/httpswift/swifter.git",
+        "repositoryURL": "https://github.com/roberthamiltony/swifter.git",
         "state": {
-          "branch": null,
-          "revision": "8b5afb48ae64d4f729f0489ddcfe09c62b9c3687",
-          "version": "1.4.7"
+          "branch": "oauthswiftfix",
+          "revision": "47651ba1fca7ed70b18fccac02a5fd55d89e5eed",
+          "version": null
         }
       }
     ]
